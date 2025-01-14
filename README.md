@@ -1,5 +1,7 @@
 
 PlacePicker App
+
+
 Description
 PlacePicker App arranges stored places based on your coordinates. For example, if you are in the USA, the nearest location in the dataset, such as the Grand Canyon, will appear first.
 
